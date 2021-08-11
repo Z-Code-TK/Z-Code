@@ -26,8 +26,10 @@ New functions and graphical user interface attached to powder indexing software"
 <h2> Software </h2>
 
 <tbody><tr><th nowrap=""><a href="https://aaa/Z-Rietveld Ver. 1.1.9">Z-Rietveld Ver. 1.1.9</a></th><td> Z-Rietveld (Ver. 1.1.9) for macOS 10.14 or later </td></tr>
+   
 <p>
 <tbody><tr><th nowrap=""><a href="https://aaa/Z-Rietveld Ver. 1.1.6">Z-Rietveld Ver. 1.1.6</a></th><td> Z-Rietveld (Ver. 1.1.6) for macOS 10.13 </td></tr>
+   
 <p>
 <tbody><tr><th nowrap=""><a href="https://aaa/Z-Rietveld Ver. 1.1.3">Z-Rietveld Ver. 1.1.3</a></th><td> Z-Rietveld (Ver. 1.1.3) for Windows </td></tr>
 
