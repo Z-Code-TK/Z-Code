@@ -19,7 +19,7 @@ New functions and graphical user interface attached to powder indexing software"
 </p>
 <p>
 <p>
- <i> If you have any question, please send e-mail to zrg-info@z-code.kek.jp.</i> 
+ <i> If you have any question, please send e-mail to zrg-info@z-code.kek.jp</i> 
 
 <h2> Downloads </h2>
 
