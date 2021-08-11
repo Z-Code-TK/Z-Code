@@ -1,6 +1,6 @@
 <h1 class="title">The disribution of the Z-Code software </h1>
    <p>
-  In publication, please refer the the name Z-Rietveld, Conograph, Z-3D and cite the following papers:
+  In publication, please refer the the software names, Z-Rietveld, Conograph and Z-3D, as well as cite the following papers:
 </p>
 Z-Rietveld:
 <p>
@@ -61,4 +61,3 @@ New functions and graphical user interface attached to powder indexing software"
 <p>
 
 <dl>
-</html>
