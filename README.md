@@ -1,6 +1,9 @@
-<h1 class="title">The disribution of the Z-Code software </h1>
+<h1 class="title">Z-Code </h1>
    <p>
-  In publication, please refer the the software names, Z-Rietveld, Conograph and Z-3D, as well as cite the following papers:
+Z-Code is data analysis software suite for powder diffraction data (time of flight/angle-dispersive neutron diffraction, laboratory/synchrotron X-ray diffraction), in which the Rietveld method, the Pawley method, Maximum Entropy method, Hanawalt method, peak search, crystallographic visualization tool, indexing, etc. can be carried out.  Z-Rietveld (Rietveld analysis, Pawley analysis, Maximum Entropy analysis), Z-3D (visualization) and Conograph (indexing) are supplied in both macOS and Windows.
+
+   
+   In publication, please refer the the software names, Z-Rietveld, Conograph and Z-3D, as well as cite the following papers:
 </p>
 Z-Rietveld:
 <p>
