@@ -9,7 +9,8 @@ At present, Z-Rietveld (Rietveld analysis, Pawley analysis, Maximum Entropy anal
      
    <br>
    In publication, please refer the the software names, Z-Rietveld, Conograph and Z-3D, as well as cite the following papers:
-</p>
+  
+   <br>
 Z-Rietveld:
 <p>
 ■R. Oishi, M. Yonemura, Y. Nishimaki, S. Torii, A. Hoshikawa, T. Ishigaki, T. Morishima, K. Mori and T. Kamiyama, 
@@ -27,6 +28,9 @@ New functions and graphical user interface attached to powder indexing software"
 </p>
 <p>
 <p>
+     
+   <br>
+   
  <i> If you have any question, please send e-mail to zrg-info@z-code.kek.jp</i> 
 
    ***
