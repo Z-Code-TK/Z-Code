@@ -6,7 +6,8 @@ At present, Z-Rietveld (Rietveld analysis, Pawley analysis, Maximum Entropy anal
 
    ![image](https://user-images.githubusercontent.com/79017935/129357774-bd7fbf1e-2424-4e4a-8500-39af7f2daa5e.png)
    
-</p>   
+     
+   <br>
    In publication, please refer the the software names, Z-Rietveld, Conograph and Z-3D, as well as cite the following papers:
 </p>
 Z-Rietveld:
