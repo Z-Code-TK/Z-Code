@@ -1,7 +1,11 @@
 <h1 class="title">Z-Code </h1>
    <p>
-Z-Code is data analysis software suite for powder diffraction data (time of flight/angle-dispersive neutron diffraction, laboratory/synchrotron X-ray diffraction), in which the Rietveld method, the Pawley method, Maximum Entropy method, Hanawalt method, peak search, crystallographic visualization tool, indexing, etc. can be carried out.  Z-Rietveld (Rietveld analysis, Pawley analysis, Maximum Entropy analysis), Z-3D (visualization) and Conograph (indexing) are supplied in both macOS and Windows.
+Z-Code is data analysis software suite for powder diffraction data (time of flight/angle-dispersive neutron diffraction, laboratory/synchrotron X-ray diffraction) developed by the Z-Code team.
+Z-Code includes the Rietveld method, the Pawley method, Maximum Entropy method, Hanawalt method, peak search, crystallographic visualization tool, indexing, etc.
+At present, Z-Rietveld (Rietveld analysis, Pawley analysis, Maximum Entropy analysis), Z-3D (visualization) and Conograph (indexing) are supplied in both macOS and Windows.
 
+   ![image](https://user-images.githubusercontent.com/79017935/129357774-bd7fbf1e-2424-4e4a-8500-39af7f2daa5e.png)
+   
    
    In publication, please refer the the software names, Z-Rietveld, Conograph and Z-3D, as well as cite the following papers:
 </p>
@@ -24,45 +28,78 @@ New functions and graphical user interface attached to powder indexing software"
 <p>
  <i> If you have any question, please send e-mail to zrg-info@z-code.kek.jp</i> 
 
-<h2> Downloads </h2>
-
-<h2> Software </h2>
-
-<tbody><tr><th nowrap=""><a href="https://aaa/Z-Rietveld Ver. 1.1.9">Z-Rietveld Ver. 1.1.9</a></th><td> Z-Rietveld (Ver. 1.1.9) for macOS 10.14 or later </td></tr>
+   ***
    
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/Z-Rietveld Ver. 1.1.6">Z-Rietveld Ver. 1.1.6</a></th><td> Z-Rietveld (Ver. 1.1.6) for macOS 10.13 </td></tr>
    
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/Z-Rietveld Ver. 1.1.3">Z-Rietveld Ver. 1.1.3</a></th><td> Z-Rietveld (Ver. 1.1.3) for Windows </td></tr>
 
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/Z-3D (Ver. 0.5.1) for Mac">Z-3D (Ver. 0.5.1) for Mac</a></th><td> Z-3D (Ver. 0.5.1) for Mac </td></tr>
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/Z-3D (Ver. 0.5) for Windows">Z-3D (Ver. 0.5) for Windows</a></th><td> Z-3D (Ver. 0.5) for Windows </td></tr>
+## Z-Rietveld Installation
+Windows:  
+If you have older version of Z-Rietveld, please uninstall it via Control Panel.  
+    [Download Z-Rietveld(Ver. 1.1.3) for Windows](https://github.com/Z-Rietveld/Z-Rietveld_Mac_Release/raw/main/Z-Rietveld1.2.0.dmg)  
+Double click the setup.exe, and follow the instruction.
+  
+Macintosh:  
+[Download Z-Rietveld (Ver. 1.1.9) for macOS 10.14 or later](https://github.com/Z-Rietveld/Z-Rietveld_Mac_Release/raw/main/Z-Rietveld1.2.0.dmg)  
+[Download Z-Rietveld (Ver. 1.1.6) for macOS 10.13](https://github.com/Z-Rietveld/Z-Rietveld_Mac_Release/raw/main/Z-Rietveld1.2.0.dmg)    
+Double click Z-Rietveldxxx.dmg, and follow the instruction.  
+*You may sometime need to push ‘control button’ when you initially starts Z-Rietveld.*
+<br>
 
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/Conograph (Ver. 2.0) for macOS 10.15">Conograph (Ver. 2.0) for macOS 10.15</a></th><td> Conograph (Ver. 2.0) for macOS 10.15</td></tr>
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/Conograph (Ver. 0.9) for macOS before 10.14">Conograph (Ver. 0.9) for macOS before 10.14</a></th><td>Conograph (Ver. 0.9) for macOS before 10.14</td></tr>
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/Conograph (Ver. 0.9) for Windows JPN ">Conograph (Ver. 0.9) for Windows JPN</a></th><td> Conograph (Ver. 0.9) for Windows JPN</td></tr>
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/Conograph (Ver. 0.9) for Windows ENG ">Conograph (Ver. 0.9) for Windows ENG</a></th><td> Conograph (Ver. 0.9) for Windows ENG </td></tr>
-<p>
+ ## Download sample data files for Z-Rietveld and MEM
+ [Download Z-Rietveld Sample data (Ver. 2020/03/07)](https://github.com/Z-Rietveld/Z-Rietveld_Mac_Release/raw/main/Z-Rietveld1.2.0.dmg)  
+ [Download Z-MEM Sample data (Ver. 2020/04/10)](https://github.com/Z-Rietveld/Z-Rietveld_Mac_Release/raw/main/Z-Rietveld1.2.0.dmg)  
 
-<h2> Sample data </h2>
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/Z-Rietveld sample data (Ver. 2020/03/07) ">Z-Rietveld sample data (Ver. 2020/03/07) </a></th><td> Z-Rietveld sample data (Ver. 2020/03/07)  </td></tr>
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/Z-MEM sample data (Ver. 2020/04/10)  ">Z-MEM sample data (Ver. 2020/04/10) </a></th><td> Z-MEM sample data (Ver. 2020/04/10)  </td></tr>
-<p>
 
-<h2> Manuals </h2>
-<p>
-<tbody><tr><th nowrap=""><a href="QuickGuide_JPN for Ver. 1.1.2 (Ver. 1.0)  ">QuickGuide_JPN for Ver. 1.1.2 (Ver. 1.0) </a></th><td> QuickGuide_JPN for Ver. 1.1.2 (Ver. 1.0)  </td></tr>
-<p>
-<tbody><tr><th nowrap=""><a href="https://aaa/QuickGuide_ENG for Ver. 1.1.2 (Ver. 1.0) ">QuickGuide_ENG for Ver. 1.1.2 (Ver. 1.0)</a></th><td> QuickGuide_ENG for Ver. 1.1.2 (Ver. 1.0)  </td></tr>
-<p>
+## Z-3D Installation
+  Windows:  
+  [Download Z-3D (Ver. 0.5) for Windows](https://github.com/Z-Rietveld/Z-Rietveld_Mac_Release/raw/main/Z-Rietveld1.2.0.dmg)  
 
-<dl>
+Double click the setup64.exe or setup32.exe and follow the instruction.
+    
+  Macintosh:  
+    [Download Z-3D (Ver. 0.5.1) for macOS](https://github.com/Z-Rietveld/Z-Rietveld_Mac_Release/raw/main/Z-Rietveld1.2.0.dmg)  
+You do not need additional installation.
+    
+ ## Conograph Installation
+  Windows:  
+ [Download Conograph (Ver. 0.9) for Windows JPN](https://github.com/Z-Rietveld/Z-Rietveld_Mac_Release/raw/main/Z-Rietveld1.2.0.dmg)  
+ [Download Conograph (Ver. 0.9) for Windows ENG](https://github.com/Z-Rietveld/Z-Rietveld_Mac_Release/raw/main/Z-Rietveld1.2.0.dmg)  
+  Double click the setup.exe, and follow the instruction.
+
+Macintosh:  
+ [Download Conograph (Ver. 0.9) for macOS before 10.14](https://github.com/Z-Rietveld/Z-Rietveld_Mac_Release/raw/main/Z-Rietveld1.2.0.dmg)  
+You do not need additional installation.
+
+***
+
+
+# *Charateristics of Z-Rietveld* 
+
+
+![図2glycyl-glycine](https://user-images.githubusercontent.com/79017935/129358298-89cfa062-558a-4769-8098-0c23ab494fe7.png)
+
+Pawley analysis for SuperHRPD data of glycyl-glycine using Z-Rietveld.  <br>  
+
+
+
+![image](https://user-images.githubusercontent.com/79017935/129532814-e517284d-892a-435f-8e52-4a4ca913196d.png)
+
+MEM analysis for SuperHRPD three bank data of RbCuICl using Z-Rietveld.  
+(left) control window, (right)Z-3D visualization
+<br>
+
+
+***
+
+    
+# [Five minutes experience of Z-Rietveld and Z-3D using a sample file #1 (LaB6)](https://github.com/Z-Rietveld/Try/blob/example_sample1/README.md)   
+   
+
+***
+
+# [Z-Rietveld Quick Guide](https://github.com/Z-Rietveld/Try/blob/Z-Rietveld-Quick-Guide/README.md)
+
+***
+
+# [Z-3D Quick Guide](https://github.com/Z-Rietveld/Try/blob/Z-3D-Quick-Guide/README.md)
+
